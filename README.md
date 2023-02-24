@@ -4,6 +4,8 @@ These are several laboratory works on the discipline "Technologies for developin
 <ul>
     <li>Laboratory work No 1: <a href="https://github.com/zephyrXXX/User-interface-development-technology-part1/blob/main/Task/%D0%BB%D1%801%20TS(2%D1%87).docx">Task</a> | <a href="https://github.com/zephyrXXX/User-interface-development-technology-part1/tree/main/Solution/Lab1">Solution</a>;</li> 
     <li>Laboratory work No 2: <a href="https://github.com/zephyrXXX/User-interface-development-technology-part1/blob/main/Task/%D0%9B%D0%A02%20TS%20(2%D1%87).docx">Task</a> | <a href="https://github.com/zephyrXXX/User-interface-development-technology-part1/tree/main/Solution/Lab2">Solution</a>;</li> 
+    <li>Laboratory work No 3: <a href="https://github.com/zephyrXXX/User-interface-development-technology-part1/blob/main/Task/%D0%9B%D0%A03%20TS(4%D1%87).docx">Task</a> | <a href="https://github.com/zephyrXXX/User-interface-development-technology-part1/tree/main/Solution/Lab3">Solution</a>;</li>
+    <li>Laboratory work No 4: <a href="https://github.com/zephyrXXX/User-interface-development-technology-part1/blob/main/Task/%D0%9B%D0%A04%20TS%20(2%D1%87).docx">Task</a> | <a href="https://github.com/zephyrXXX/User-interface-development-technology-part1/tree/main/Solution/Lab4">Solution</a>;</li>
 </ul>
   
 <!-- 
